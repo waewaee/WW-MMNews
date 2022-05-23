@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.waewaee.padc7_ww_mmnews.views.items.NewsDetailsImageViewItem
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/iv_news_details_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:src="@drawable/news_details_image"
+        android:scaleType="centerCrop"/>
+
+</com.waewaee.padc7_ww_mmnews.views.items.NewsDetailsImageViewItem>
